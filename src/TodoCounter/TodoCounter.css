@@ -1,0 +1,12 @@
+.TodoCounter{
+    background-color: aquamarine;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 1em;
+    padding: 1em;
+    border-radius: 2em;
+    width: 80%;
+    backdrop-filter: opacity(20%);
+    box-shadow: inset 2px 0px 8px 2px rgb(148, 146, 146);
+}
